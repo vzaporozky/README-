@@ -51,8 +51,8 @@
 <!-- <a href="#" style="margin-bottom:15px">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulfordev&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
 </a> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/vzaporozky/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/vzaporozky/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzaporozky)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzaporozky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
