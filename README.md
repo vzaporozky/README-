@@ -21,7 +21,7 @@
 #### Style
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/sass-%23563D7C.svg?style=for-the-badge&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=pick)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Bundler
@@ -48,9 +48,11 @@
 
 ## 📈 Stat
 
-<a href="#" style="margin-bottom:15px">
+<!-- <a href="#" style="margin-bottom:15px">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulfordev&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
-</a>
+</a> -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/vzaporozky/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/vzaporozky/github-readme-stats)
 
 <br/>
 <br/>
