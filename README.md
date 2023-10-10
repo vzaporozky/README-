@@ -16,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=TypeScript&logoColor=%1003d1)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-white.svg?style=for-the-badge&logo=redux&logoColor=%23563D7C)
+![MobX](https://img.shields.io/badge/mobX-%23323330.svg?style=for-the-badge&logo=mobx&logoColor=%orange)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Style
@@ -23,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=pick)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MatrialUI](https://img.shields.io/badge/MaterialUI-%23323330.svg?style=for-the-badge&logo=MUI)
 
 #### Bundler
 
@@ -31,6 +33,7 @@
 #### Others
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%23000000.svg?style=for-the-badge&logo=Axios&logoColor=purple)
 
 #### Tools
 
